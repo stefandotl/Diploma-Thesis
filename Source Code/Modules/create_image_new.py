@@ -75,7 +75,7 @@ with open('ellipses.csv', mode='w') as csv_input:
         with open('sauter.csv', mode='w') as csv_sauter:
             writer_s = csv.writer(csv_sauter, lineterminator='\n')
 
-            while counter_images < number_of_images:
+            while counter_images <= number_of_images:
 
                 # create / clears images
                 # x and y are swapped, cause first coordinate with np.zeros is y
