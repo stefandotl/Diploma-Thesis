@@ -4,6 +4,7 @@
 Created on Tue Mar 26 08:16:07 2019
 
 @author: jschaefer
+@editor: sliebrecht
 """
 import random, sys
 import cv2
