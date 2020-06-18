@@ -4,8 +4,7 @@
 ####################################
 
 !Attention! This is not the full-version and therefore not working!
-This version is just an overview where not all listed modules are available.
-
+This is just an overview of the modules, some of them are not available.
 
 ####################################
 
