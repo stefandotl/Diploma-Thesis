@@ -86,7 +86,7 @@ def main():
 
         # result_image, ellipses = ed1.detect_ellipses(transformed_image)     # first method, works best for unclear borders on artificial images
         # result_image, ellipses = ed2.detect_ellipses(transformed_image)   # second method, works good for ideal borders
-        result_image, ellipses = ed3.detect_ellipses(transformed_image)  # third method, adjusted first method for real images 
+        result_image, ellipses = ed3.detect_ellipses(transformed_image)  # third method, adjusted first method for real bubbles 
 
         if image_number < 50:  # writes maximum 50 images to see the results
             cv2.imwrite('net_output/' + image_name, final_image)
