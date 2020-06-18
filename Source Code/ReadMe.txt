@@ -3,8 +3,9 @@
 
 ####################################
 
-!Attention! This is not the full-version.
-Not all listed modules are available.
+!Attention! This is not the full-version and therefore not working!
+This version is just an overview where not all listed modules are available.
+
 
 ####################################
 
