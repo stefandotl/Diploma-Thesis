@@ -3,7 +3,7 @@
 
 ####################################
 
-!Attention! This is not the full-version and therefore not working!
+!Attention! This is not the full-version and therefore not working properly!
 This is just an overview of the modules, some of them are not available.
 
 ####################################
