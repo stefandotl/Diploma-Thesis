@@ -1,4 +1,11 @@
 
+
+
+####################################
+
+!Attention! This is not the full-version.
+Not all listed modules are available.
+
 ####################################
 
 How to use:
