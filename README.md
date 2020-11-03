@@ -1,4 +1,4 @@
-# Diploma-Thesis-Image segmentation for determining mass transfer surfaces in bubble columns using a neural network (public-version)
+# Diploma-Thesis: Image segmentation for determining mass transfer surfaces in bubble columns using a neural network (public-version)
 Image segmentation for determining mass transfer surfaces in bubble columns using a neural network
 
 
